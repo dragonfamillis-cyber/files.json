@@ -1,0 +1,23 @@
+[
+    {
+        "title": "تحديث جديد 0.0.39",
+        "image": "https://game.touch-rp.com/mobile/news/update_039.png",
+        "slug": "update-0-0-39",
+        "description": "تم إضافة سيارات جديدة وإصلاح بعض الأخطاء في السيرفر",
+        "created_at": "2024-12-15T10:30:00.000Z"
+    },
+    {
+        "title": "عرض x2 لجميع التبرعات",
+        "image": "https://game.touch-rp.com/mobile/news/donate_x2.png",
+        "slug": "donate-x2-offer",
+        "description": "مضاعفة جميع التبرعات لمدة أسبوع كامل. لا تفوت الفرصة!",
+        "created_at": "2024-12-10T08:00:00.000Z"
+    },
+    {
+        "title": "مسابقة أفضل لاعب في الشهر",
+        "image": "https://game.touch-rp.com/mobile/news/best_player.png",
+        "slug": "best-player-contest",
+        "description": "شارك في مسابقة أفضل لاعب واربح جوائز قيمة",
+        "created_at": "2024-12-01T14:00:00.000Z"
+    }
+]
