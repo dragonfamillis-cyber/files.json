@@ -1,9 +1,9 @@
 {
     "cache": "https://samp-mobile.shop/files.json",
-	  "cdnLauncher": "https://game.touch-rp.com/mobile/launcher",
+	"cdnLauncher": "https://www.dropbox.com/scl/fi/joy5zk8zfq17h8t1v2o9r/LAST-LUNCHER.apk?rlkey=hncm3xiib9htvkh5vfxafs688&st=21i0wamc&dl=1",
     "cacheMode": "https://samp-mobile.shop/files.json",
     "cache_snow": "https://samp-mobile.shop/files.json",
     "cdnCache": "https://samp-mobile.shop/files.json",
-    "launcher": "https://game.touch-rp.com/mobile/cache_snow/full-cache.zip",
+    "launcher": "https://www.dropbox.com/scl/fi/joy5zk8zfq17h8t1v2o9r/LAST-LUNCHER.apk?rlkey=hncm3xiib9htvkh5vfxafs688&st=21i0wamc&dl=1",
     "servers": "https://touch-rp.com/api/versions.json"
 }
