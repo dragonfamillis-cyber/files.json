@@ -1,9 +1,9 @@
 {
     "cache": "https://samp-mobile.shop/files.json",
-	"cdnLauncher": "https://www.dropbox.com/scl/fi/joy5zk8zfq17h8t1v2o9r/LAST-LUNCHER.apk?rlkey=hncm3xiib9htvkh5vfxafs688&st=21i0wamc&dl=1",
+	"cdnLauncher": "https://raw.githubusercontent.com/dragonfamillis-cyber/files.json/main/launcher.json",
     "cacheMode": "https://samp-mobile.shop/files.json",
     "cache_snow": "https://samp-mobile.shop/files.json",
     "cdnCache": "https://samp-mobile.shop/files.json",
-    "launcher": "https://www.dropbox.com/scl/fi/joy5zk8zfq17h8t1v2o9r/LAST-LUNCHER.apk?rlkey=hncm3xiib9htvkh5vfxafs688&st=21i0wamc&dl=1",
+    "launcher": "https://raw.githubusercontent.com/dragonfamillis-cyber/files.json/main/launcher.json",
     "servers": "https://raw.githubusercontent.com/dragonfamillis-cyber/files.json/main/servers.json"
 }
