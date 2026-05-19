@@ -1,9 +1,9 @@
 {
-    "cache": "https://samp-mobile.shop/files.json",
+    "cache": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/full_list.json",
 	"cdnLauncher": "https://raw.githubusercontent.com/dragonfamillis-cyber/files.json/main/launcher.json",
-    "cacheMode": "https://samp-mobile.shop/files.json",
-    "cache_snow": "https://samp-mobile.shop/files.json",
-    "cdnCache": "https://samp-mobile.shop/files.json",
+    "cacheMode": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/full_list.json",
+    "cache_snow": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/full_list.json",
+    "cdnCache": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/full_list.json",
     "launcher": "https://raw.githubusercontent.com/dragonfamillis-cyber/files.json/main/launcher.json",
     "servers": "https://raw.githubusercontent.com/dragonfamillis-cyber/files.json/main/servers.json"
 }
