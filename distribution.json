@@ -5,5 +5,5 @@
     "cache_snow": "https://samp-mobile.shop/files.json",
     "cdnCache": "https://samp-mobile.shop/files.json",
     "launcher": "https://www.dropbox.com/scl/fi/joy5zk8zfq17h8t1v2o9r/LAST-LUNCHER.apk?rlkey=hncm3xiib9htvkh5vfxafs688&st=21i0wamc&dl=1",
-    "servers": "https://touch-rp.com/api/versions.json"
+    "servers": "https://raw.githubusercontent.com/dragonfamillis-cyber/files.json/main/servers.json"
 }
