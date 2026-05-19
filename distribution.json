@@ -1,0 +1,9 @@
+{
+    "cache": "https://samp-mobile.shop/files.json",
+	  "cdnLauncher": "https://game.touch-rp.com/mobile/launcher",
+    "cacheMode": "https://samp-mobile.shop/files.json",
+    "cache_snow": "https://samp-mobile.shop/files.json",
+    "cdnCache": "https://samp-mobile.shop/files.json",
+    "launcher": "https://game.touch-rp.com/mobile/cache_snow/full-cache.zip",
+    "servers": "https://touch-rp.com/api/versions.json"
+}
